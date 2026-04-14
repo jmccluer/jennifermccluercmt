@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.jennifermccluermassage.com)",
+      "Bash(curl -s \"https://www.jennifermccluermassage.com/\")"
+    ]
+  }
+}
